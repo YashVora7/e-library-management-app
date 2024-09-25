@@ -12,7 +12,7 @@ User Authentication
 Technologies Used:
 Node.js: JavaScript runtime for building the backend.
 Express.js: Web framework to handle routes and middleware.
-MongoDB: NoSQL database for storing Library posts.
+MongoDB: NoSQL database for storing Books.
 Mongoose: ORM for MongoDB, used to define the schema and interact with the database.
 Cors: Middleware to enable Cross-Origin Resource Sharing.
 dotenv: For managing environment variables.
