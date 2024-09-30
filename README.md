@@ -22,6 +22,13 @@ This is the backend for the E-Library App. It provides CRUD (Create, Read, Updat
 
 ## API Endpoints:
 
+### User Routes:
+
+| Method | Endpoint                         | Description                        |
+|--------|----------------------------------|------------------------------------|
+| **POST**    | `/user/login`                    | Login User                      |
+| **POST**     | `/user/signup`                    | Register User                  |
+
 ### Library Routes:
 
 | Method | Endpoint                         | Description                        |
